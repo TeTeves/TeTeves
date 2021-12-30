@@ -9,6 +9,13 @@ I’m Information Systems student looking for learning and project collaboration
 
 ![TeTeves GitHub stats](https://github-readme-stats.vercel.app/api?username=TeTeves&count_private=true&theme=radical&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeTeves&theme=radical)
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python"/>
+**Applications and Data**
+
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+
+**Development Tools**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  
