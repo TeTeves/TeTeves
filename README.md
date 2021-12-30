@@ -4,6 +4,7 @@
 ### Hi, I'm TeTeves 👋
 I’m Information Systems student looking for learning and project collaboration...
 - 🌱 I’m currently just a Systems student, starting in Java and Python.
+- ☕❤️ I’m love coffee!
 - 🤝 I'm looking to collaborate on projects that bring me learning.
 
 ![TeTeves GitHub stats](https://github-readme-stats.vercel.app/api?username=TeTeves&count_private=true&theme=radical&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeTeves&theme=radical)
