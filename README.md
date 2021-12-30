@@ -3,7 +3,7 @@
 
 ### Hi, I'm TeTeves 👋
 I’m Information Systems student looking for learning and project collaboration...
-- 🌱 I’m currently just a Systems student, starting in Java and Python.
+- 🌱 I’m currently just a Systems student, starting in HTML, Java and Python.
 - ☕❤️ I’m love coffee!
 - 🤝 I'm looking to collaborate on projects that bring me learning.
 
