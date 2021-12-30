@@ -1,12 +1,21 @@
-### Hi there 👋
+![lula](https://user-images.githubusercontent.com/85762759/147761630-9aaf3db3-a0a0-42dd-a3b9-222b9e5b0329.gif)
 
-<!--
+
+### Hi, I'm TeTeves 👋
+I’m Information Systems student looking for learning and project collaboration...
+- 🌱 I’m currently just a Systems student, starting in Java and Python.
+- 🤝 I'm looking to collaborate on projects that bring me learning.
+
+![github stats](https://github-readme-stats.vercel.app/api?username=TeTeves&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeTeves&theme=radical)
+
+
 **TeTeves/TeTeves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
